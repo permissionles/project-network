@@ -28,7 +28,7 @@
     "show_labs_settings": false,
     "features": { },
     "default_federate": true,
-    "default_theme": "light",
+    "default_theme": "dark",
     "room_directory": {
         "servers": [
             "matrix.org"
@@ -50,4 +50,3 @@
     "map_style_url": "https://api.maptiler.com/maps/streets/style.json?key=fU3vlMsMn4Jb6dnEIFsx"
 }
 
-//Status
